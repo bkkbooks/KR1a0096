@@ -1,0 +1,23 @@
+canonical_identifier: bkk:krp/KR1a0096/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書經部一
+  hash: sha256:5111095677a17a819f758c15b1f1277a321ca96156d9a58f561e94ee59984d92
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR1a0096_WYG_000-1a, image: WYG0031/WYG0031-0001a.png}
+body:
+  text: 周易辨録易類提要臣等謹案周易辨録四卷明楊爵撰爵字伯修富平人嘉靖己丑進士官至山東道監察御史以上疏極論符瑞下詔獄繫七年始得釋事迹具明史本傳其書前有自序題嘉靖二十四年乙巳蓋即其與周怡劉魁等在獄中講論所作故取繫辭困德之辨一語為名明史本傳作周易辨說其名小異然藝文志仍作周易辨録蓋刊本字誤也所釋惟六十四卦每卦惟載上下經卦辭然其訓解則六爻及彖傳象傳皆兼及之特不列其文耳其說多以人事為主頗剴切著明蓋以正直之操處杌􅑾之㑹幽居遠念寄托良深有未可以經生常義律之者然自始至終無一字之怨尤其所以為純臣歟乾隆四十四年八月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀周易辨録原序豫久蒙幽繫自以負罪深重憂患驚惕之念即夙夜而恆存也困病中日讀周易以自排遣愚昧管窺或有所得則隨筆之以備遺忘嵗月既久六十四卦之說略具矣因名曰周易辨録繫辭曰困德之辨也吾以驗吾心之所安力之所勝何如耳若以為實有所見而求法於古人焉則吾死罪之餘萬萬所不敢也楊爵書
+  hash: sha256:a5bd89484c00dc6496f7c79dbc3eb5df089ebed12a360ae34b8beb6e1d3c3643
+  markers:
+  - {type: page-break, offset: 270, content: '', id: KR1a0096_WYG_000-3a, image: WYG0031/WYG0031-0002c.png}
+metadata:
+  title: 周易辯錄
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 21:57:34.692715'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR1a0096/KR1a0096_000.txt
+hash: sha256:a898562c9431faf844641162214c2868c3d59a6905c4b40c4eba5fb8bfa727a4
